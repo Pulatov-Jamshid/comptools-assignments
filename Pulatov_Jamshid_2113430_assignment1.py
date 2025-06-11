@@ -1,3 +1,11 @@
+# Assigment 1 by FinTech group
+# Group members:
+# Egamberdiev Temurbek
+# Pulatov Jamshid
+# Abdurayimov Jalol
+# Ruzimurodov Abbos
+
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
